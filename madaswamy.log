@@ -1,0 +1,4 @@
+DEBUG:root:this messsage should go to the log file
+INFO:root:so should this
+WARNING:root:and this,to
+ERROR:root:and non-ASCII stuff,like resund and malmo
